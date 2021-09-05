@@ -1,7 +1,7 @@
 import React from 'react'
 
 // REACT ROUTER
-import { Link, useHistory, useLocation } from 'react-router-dom';
+import { Link } from 'react-router-dom';
 
 function Header() {
     return (
